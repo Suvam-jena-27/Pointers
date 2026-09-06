@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* 1. Pointers*/
+
 int main(){
     int a = 1025;
     int* p = &a;
