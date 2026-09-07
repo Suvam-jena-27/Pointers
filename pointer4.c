@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*3. Pointers and Arrays*/
+/*4. Pointers and Arrays*/
 
 int main(){
     int A[5] = {2, 4, 5, 8, 1};

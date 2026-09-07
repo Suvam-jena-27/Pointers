@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*4. Arrays as fxn. arg.*/
+/*5. Arrays as fxn. arg.*/
 
 int SOE(int A[], int n){    //A array in passed by reference here
     int i;                  //Hence, the sizeof(A) in SOE() is 4 bytes

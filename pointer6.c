@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-/*5. Character arrays and pointers*/
+/*6. Character arrays and pointers*/
 
 int main(){
     char C[8];

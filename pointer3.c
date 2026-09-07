@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*2. Pointers as fxn. arg.*/
+/*3. Pointers as fxn. arg.*/
 
 void increase(int *p){
     *p = *p + 1;
