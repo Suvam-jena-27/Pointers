@@ -18,7 +18,6 @@ int main(){
     printf("Address of A[0] or A = %d\n", A+1); //Address at A+1
     printf("Value at A[0] = %d\n", *(A+1));
     //The array name acts as a pointer itself
-    
     for(int i=0; i<5; i++){
         printf("Address of A[%d] = %d\n", i, &A[i]);
         printf("Value = %d\n", *(A+i));
