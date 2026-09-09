@@ -11,7 +11,7 @@ int main(){
     printf("Before Increment: ");
     printf("a = %d\n", a);
 
-    increase(&a);
+    increase(&a);   //passing address as arguments
     printf("After Increment: ");
     printf("a = %d\n", a);
     

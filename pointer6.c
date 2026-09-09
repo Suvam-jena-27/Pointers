@@ -5,11 +5,11 @@
 
 int main(){
     char C[8];
-    C[0] = 'J';        //Also, int C[] = {'J', 'o', 'h', 'n'};
+    C[0] = 'J';        //int C[] = {'J', 'o', 'h', 'n'};
     C[1] = 'o';
     C[2] = 'h';
     C[3] = 'n';
-    C[4] = '\0';      //string in c should end with Null char. (\0)
+    C[4] = '\0';      //string should end with Null char. (\0)
     int len = strlen(C);
     printf("%s %d\n", C, len);
 

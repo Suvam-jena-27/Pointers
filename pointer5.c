@@ -7,7 +7,7 @@ int SOE(int A[], int n){    //A array in passed by reference here
     int sum = 0;
     
     for(i = 0; i < n; i++){
-        sum += A[i];        //interpreted as *(A+i)
+        sum += A[i];        //interpreted as *(A+i) = A[i]
     }
     return sum;
 }

@@ -6,7 +6,7 @@ int main(){
     int a = 1025;
     int* p = &a;
 
-    //pointer arithematic
+    //pointers arithematic
     //printf("p =%d\n", p);
     //printf("p+1 =%d\n", p+1);
     printf("Size of int: %d\n", sizeof(int));
